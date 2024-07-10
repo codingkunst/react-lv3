@@ -1,0 +1,42 @@
+div {
+  display: block;
+}
+
+.select-area {
+  border: 3px solid rgb(221, 221, 221);
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+  margin: 50px 10px 10px 10px;
+}
+
+h1 {
+  display: block;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.select-style {
+  display: flex; 
+  gap: 10px;
+}
+.select-stylee {
+  position: relative;
+}
+
+.select-box-style {
+  border: 1px solid rgb(221, 221, 221);
+  height: 40px;
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 12px;
+}
+
+.select-content-style {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 28px;
+}
